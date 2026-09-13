@@ -1,0 +1,10 @@
+sqlalchemy
+psycopg2-binary
+python-dotenv
+gspread
+google-auth
+playwright
+requests
+google-genai
+fastapi
+uvicorn
